@@ -24,7 +24,7 @@
 
 ## License
 
-遵循 Anti 996 License. 有关详细,请参阅 [Anti 996 License](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+遵循 Anti 996 License. 有关详细,请参阅 [Anti 996 License](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 ## 赞赏
 
