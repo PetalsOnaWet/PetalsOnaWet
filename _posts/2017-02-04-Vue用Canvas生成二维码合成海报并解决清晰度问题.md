@@ -17,7 +17,7 @@ tags:
 
 # 依赖
 
-QRCode 这个依赖主要是用于移动端将 url 生成二维码，注意名字叫 qrcodejs2 别安装错
+```QRCode``` 这个依赖主要是用于移动端将 url 生成二维码，注意名字叫 qrcodejs2 别安装错
 
 ```
 npm install qrcodejs2 --save 
