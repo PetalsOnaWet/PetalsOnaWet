@@ -10,48 +10,10 @@
 
 
 
+### 文章列表
 
+[Vue用Canvas生成二维码合成海报并解决清晰度问题(https://petalsonawet.github.io/2019/05/18/Vue%E7%94%A8Canvas%E7%94%9F%E6%88%90%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%90%88%E6%88%90%E6%B5%B7%E6%8A%A5%E5%B9%B6%E8%A7%A3%E5%86%B3%E6%B8%85%E6%99%B0%E5%BA%A6%E9%97%AE%E9%A2%98/)
 
-### 开始
-
-你可以通用修改 `_config.yml`文件来轻松的开始搭建自己的博客:
-
-```
-# Site settings
-title: BY Blog                    # 你的博客网站标题
-SEOTitle: 柏荧的博客 | BY Blog		# SEO 标题
-description: "Hey"	   	   # 随便说点，描述一下
-
-# SNS settings      
-github_username: qiubaiying     # 你的github账号
-jianshu_username: e71990ada2fd  # 你的简书ID。
-
-# Build settings
-# paginate: 10              # 一页你准备放几篇文章
-```
-
-Jekyll官方网站还有很多的参数可以调，比如设置文章的链接形式...网址在这里：[Jekyll - Official Site](http://jekyllrb.com/) 中文版的在这里：[Jekyll中文](http://jekyllcn.com/).
-
-### 撰写博文
-
-要发表的文章一般以 **Markdown** 的格式放在这里`_posts/`，你只要看看这篇模板里的文章你就立刻明白该如何设置。
-
-yaml 头文件长这样:
-
-```
----
-layout:     post
-title:      定时器 你真的会使用吗？
-subtitle:   iOS定时器详解
-date:       2016-12-13
-author:     BY
-header-img: img/post-bg-ios9-web.jpg
-catalog: 	 true
-tags:
-    - iOS
-    - 定时器
----
-```
 ## 致谢
 
 1. 这个模板是从这里 [Hux](https://github.com/Huxpro/huxpro.github.io) fork 的, 感谢这个作者。 
