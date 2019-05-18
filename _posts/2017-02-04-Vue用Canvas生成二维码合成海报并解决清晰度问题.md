@@ -25,11 +25,13 @@ npm install qrcodejs2 --save
 import QRCode from "qrcodejs2"
 ```
 
-html2canvas 这个依赖主要是将当前 HTML 结构以及 css 样式转换为 canvas。比自己用 api 去画方便多了
+```html2canvas ```  
 
-Canvas2Image [Github](https://github.com/hongru/canvas2image)
+这个依赖主要是将当前 HTML 结构以及 css 样式转换为 canvas。比自己用 api 去画方便多了  
 
-这个依赖主要是将canvas 转换为图片，实际上，Canvas2Image.js也是基于 canvas.toDataURL 的封装，相比原生的 API 对于转为图片的功能上考虑更为具体(未压缩的包大小为 7.4KB )，适合项目使用。
+```Canvas2Image``` [Github](https://github.com/hongru/canvas2image)  
+
+这个依赖主要是将canvas 转换为图片，实际上，Canvas2Image.js也是基于 canvas.toDataURL 的封装，相比原生的 API 对于转为图片的功能上考虑更为具体(未压缩的包大小为 7.4KB )，适合项目使用。  
 
 # 主要思路
 
@@ -37,7 +39,8 @@ Canvas2Image [Github](https://github.com/hongru/canvas2image)
 
 # 代码
 
-html 部分
+html 部分  
+
 ```
  <!--html 结构,具体 css 不写了-->
 
@@ -65,7 +68,7 @@ html 部分
     
 ```
 
-js 部分
+js 部分  
 
 ```
 
@@ -166,9 +169,9 @@ js 部分
 
 # 问题与解决方案
 
-按理说，这时候的需求应该实现了，但是运行过后，会发现转换成的图片，清晰度感人。肯定不符合需求，所以我搜索了一番，发现以下解决方案。
+按理说，这时候的需求应该实现了，但是运行过后，会发现转换成的图片，清晰度感人。肯定不符合需求，所以我搜索了一番，发现以下解决方案。  
 
-第一，背景图不能通过 background 来引用，要单独写个 image 结构
+第一，背景图不能通过 background 来引用，要单独写个 image 结构  
 
 ```
 
