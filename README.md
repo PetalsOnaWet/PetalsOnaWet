@@ -3,10 +3,11 @@
 [![](https://img.shields.io/github/forks/PetalsOnaWet/PetalsOnaWet.github.io.svg?style=social)](https://github.com/PetalsOnaWet/PetalsOnaWet.github.io)
 
 
-博客的搭建教程修改自 [Hux](https://github.com/Huxpro/huxpro.github.io) 
- 
+
 
 ### [查看博客戳这里 👆](https://petalsonawet.github.io/)
+
+请别吝啬您的star
 
 
 
@@ -22,4 +23,6 @@
 ## License
 
 遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://github.com/qiubaiying/qiubaiying.github.io/blob/master/LICENSE)。
+
+## 如果文章对您有帮助，请赏杯咖啡喝
 
