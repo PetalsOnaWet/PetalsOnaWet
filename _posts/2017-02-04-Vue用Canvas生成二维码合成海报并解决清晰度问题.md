@@ -357,5 +357,6 @@ html 部分
 
 到此，需求就完美实现了。如果你有更好的思路请留言告诉我
 
-[参考博客1](http://objcer.com/2017/10/10/High-DPI-Canvas-Render/)
+[参考博客1](http://objcer.com/2017/10/10/High-DPI-Canvas-Render/)  
+
 [参考文章2](https://segmentfault.com/a/1190000011478657)
