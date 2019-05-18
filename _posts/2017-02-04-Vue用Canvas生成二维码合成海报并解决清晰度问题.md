@@ -31,7 +31,7 @@ import QRCode from "qrcodejs2"
 
 ```Canvas2Image``` [Github](https://github.com/hongru/canvas2image)  
 
-这个依赖主要是将canvas 转换为图片，实际上，Canvas2Image.js也是基于 canvas.toDataURL 的封装，相比原生的 API 对于转为图片的功能上考虑更为具体(未压缩的包大小为 7.4KB )，适合项目使用。  
+这个依赖主要是将 canvas 转换为图片，实际上，Canvas2Image.js 也是基于 canvas.toDataURL 的封装，相比原生的 API 对于转为图片的功能上考虑更为具体(未压缩的包大小为 7.4KB )，适合项目使用。  
 
 # 主要思路
 
