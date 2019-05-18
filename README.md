@@ -28,8 +28,10 @@
 
 如果文章对您有帮助，请赏杯咖啡喝
 
-微信  
-![wechat](https://github.com/PetalsOnaWet/PetalsOnaWet.github.io/blob/master/img/wechat.png)  
-BTC  
-![BTC](https://github.com/PetalsOnaWet/PetalsOnaWet.github.io/blob/master/img/btc.png)  
+##### 微信  
+![wechat](https://github.com/PetalsOnaWet/PetalsOnaWet.github.io/blob/master/img/wechat.png){:height="200px" width="200px"}  
+
+
+##### BTC  
+![BTC](https://github.com/PetalsOnaWet/PetalsOnaWet.github.io/blob/master/img/btc.png){:height="200px" width="200px"}
 
