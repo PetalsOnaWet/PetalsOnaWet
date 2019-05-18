@@ -12,7 +12,7 @@
 
 ### 文章列表
 
-[Vue用Canvas生成二维码合成海报并解决清晰度问题](https://petalsonawet.github.io/2019/05/18/Vue%E7%94%A8Canvas%E7%94%9F%E6%88%90%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%90%88%E6%88%90%E6%B5%B7%E6%8A%A5%E5%B9%B6%E8%A7%A3%E5%86%B3%E6%B8%85%E6%99%B0%E5%BA%A6%E9%97%AE%E9%A2%98/)
+-[Vue用Canvas生成二维码合成海报并解决清晰度问题](https://petalsonawet.github.io/2019/05/18/Vue%E7%94%A8Canvas%E7%94%9F%E6%88%90%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%90%88%E6%88%90%E6%B5%B7%E6%8A%A5%E5%B9%B6%E8%A7%A3%E5%86%B3%E6%B8%85%E6%99%B0%E5%BA%A6%E9%97%AE%E9%A2%98/)
 
 ## 致谢
 
