@@ -24,5 +24,12 @@
 
 遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://github.com/qiubaiying/qiubaiying.github.io/blob/master/LICENSE)。
 
-## 如果文章对您有帮助，请赏杯咖啡喝
+## 赞赏
+
+如果文章对您有帮助，请赏杯咖啡喝
+
+微信  
+![wechat](https://github.com/PetalsOnaWet/PetalsOnaWet.github.io/blob/master/img/wechat.png)  
+BTC  
+![BTC](https://github.com/PetalsOnaWet/PetalsOnaWet.github.io/blob/master/img/btc.png)  
 
