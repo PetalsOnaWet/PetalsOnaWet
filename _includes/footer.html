@@ -91,17 +91,17 @@
                     {% endif %}
                     {% if site.juejin_username %}
                     <li>
-                        <a target="_blank" href="https://juejin.im/user/{{ site.linkedin_username }}">
+                        <a target="_blank" href="https://juejin.im/user/{{ site.juejin_username }}">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                                <i class="fa icon-CN_goldxituio fa-stack-1x fa-inverse"></i>
                             </span>
                         </a>
                     </li>
                     {% endif %}
                     {% if site.segmentfault_username %}
                     <li>
-                        <a target="_blank" href="https://segmentfault.com/u/{{ segmentfault_username }}">
+                        <a target="_blank" href="https://segmentfault.com/u/{{ site.segmentfault_username }}">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
@@ -124,6 +124,7 @@
         </div>
     </div>
 </footer>
+
 
 <!-- jQuery -->
 <script src="{{ "/js/jquery.min.js " | prepend: site.baseurl }}"></script>
