@@ -20,9 +20,9 @@ tags:
 QRCode 这个依赖主要是用于移动端将 url 生成二维码，注意名字叫 qrcodejs2 别安装错
 
 ```
-npm install qrcodejs2 --save  
-import QRCode from "qrcodejs2"
+npm install qrcodejs2 --save 
 
+import QRCode from "qrcodejs2"
 ```
 
 html2canvas 这个依赖主要是将当前 HTML 结构以及 css 样式转换为 canvas。比自己用 api 去画方便多了
