@@ -31,9 +31,8 @@
 如果文章对您有帮助，请赏杯咖啡喝
 
 
-微信
+
  <img src="https://github.com/PetalsOnaWet/PetalsOnaWet.github.io/blob/master/img/wechat.png" width ="200" height = "200" alt="微信赞赏" align=center />
- 比特币
- <img src="https://github.com/PetalsOnaWet/PetalsOnaWet.github.io/blob/master/img/btc.png" width = "200" height = "200" alt="比特币赞赏" align=center />
+
 
 
